@@ -1,0 +1,16 @@
+Neeharika Sompalli (nsompal@ncsu.edu)
+
+REFERENCES:
+
+1. https://pike.lysator.liu.se/generated/manual/modref/ex/predef_3A_3A/Fuse/Operations/statfs.html
+2. https://engineering.facile.it/blog/eng/write-filesystem-fuse/
+3. https://linux.die.net/man/3/
+4. https://www.cs.hmc.edu/~geoff/classes/hmc.cs135.201109/homework/fuse/fuse_doc.html
+5. https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/
+6. http://www.maastaar.net/fuse/linux/filesystem/c/2016/05/21/writing-a-simple-filesystem-using-fuse/
+7. https://gist.github.com/mobius/1759816, https://github.com/Ninja3047/Fuse-Zip
+8. https://stackoverflow.com/questions/
+9. https://github.com/libfuse/libfuse/blob/master/example/hello.c
+10.https://libzip.org/documentation
+
+
