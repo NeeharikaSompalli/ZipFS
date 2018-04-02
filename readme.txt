@@ -1,4 +1,4 @@
-Neeharika Sompalli (nsompal@ncsu.edu)
+
 
 Execution of the program:
 
