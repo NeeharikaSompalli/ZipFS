@@ -2,6 +2,9 @@
 
 Execution of the program:
 
+sudo -apt get install libzip-dev
+sudo apt-get install fuse-zip
+
 1. Compile the code using the command with a executable "zipfs"
 
 gcc  -Wall ZipFs_nsompal.c `pkg-config fuse libzip --cflags --libs` -o zipfs 
